@@ -1378,6 +1378,7 @@ PRODUCT_PACKAGES += \
     libgpustats \
     libthermalclient \
     libtime_genoff \
+    libqcomfm_jni \
     vendor.qti.hardware.fm@1.0 \
     com.quicinc.cne.api@1.0 \
     com.quicinc.cne.api@1.1 \
